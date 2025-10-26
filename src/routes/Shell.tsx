@@ -19,7 +19,7 @@ export default function Shell(){
   return (
     <div className="min-h-screen pb-16 sm:pb-0">
       <header className="container-page flex items-center justify-between">
-        <Link to="/" className="text-xl font-bold">Manga<span className="text-accent">toon</span></Link>
+        <Link to="/" className="text-xl font-bold">Neko<span className="text-accent">toon</span></Link>
         <div className="hidden sm:flex items-center gap-2">
           <NavLink to="/" className="btn">Beranda</NavLink>
           <NavLink to="/komik" className="btn">Komik</NavLink>
@@ -31,7 +31,7 @@ export default function Shell(){
       </header>
       <Outlet/>
       <footer className="container-page flex items-center justify-between border-t border-edge mt-8 pt-4">
-        <p className="muted">Gunakan konten legal / milik sendiri. © Demo.</p>
+        <p className="muted">© Nekotoon.</p>
         <a className="badge" href="https://wa.me/6281234567890" target="_blank">WhatsApp</a>
       </footer>
       <BottomNav/>
