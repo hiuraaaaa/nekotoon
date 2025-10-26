@@ -201,7 +201,7 @@
       "cover": "/manga/zombie/cover.png",
       "tags": [
         "slice of life",
-        "food"
+        "action"
       ],
       "rating": 4.6,
       "views": "12.1M",
@@ -209,8 +209,8 @@
       "chapters": [
         {
           "number": 1,
-          "title": "Resep Rahasia",
-          "pages": 1,
+          "title": "Zombie Papa",
+          "pages": 3,
           "ext": "png",
           "date": "2021-02-01",
           "likes": "1.2k",
