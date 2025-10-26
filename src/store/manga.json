@@ -194,6 +194,28 @@
           "comments": "3k"
         }
       ]
+    }, 
+    {
+      "slug": "kitchen-alchemist",
+      "title": "Kitchen Alchemist",
+      "cover": "/manga/kitchen-alchemist/cover.png",
+      "tags": [
+        "slice of life",
+        "food"
+      ],
+      "rating": 4.6,
+      "views": "12.1M",
+      "likes": "321k",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Resep Rahasia",
+          "pages": 7,
+          "date": "2021-02-01",
+          "likes": "1.2k",
+          "comments": "120"
+        }
+      ]
     }
   ]
 }
