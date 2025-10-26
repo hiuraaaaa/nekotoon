@@ -19,7 +19,7 @@ export default function Shell(){
   return (
     <div className="min-h-screen pb-16 sm:pb-0">
       <header className="container-page flex items-center justify-between">
-        <Link to="/" className="text-xl font-bold">Neko<span className="text-accent">toon</span></Link>
+        <Link to="/" className="text-xl font-bold">Manga<span className="text-accent">toon</span></Link>
         <div className="hidden sm:flex items-center gap-2">
           <NavLink to="/" className="btn">Beranda</NavLink>
           <NavLink to="/komik" className="btn">Komik</NavLink>
